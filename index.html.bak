@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Gul Fayaz Rumi portfolio </title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="Portfolio HTML Template" name="keywords">
+        <meta content="Portfolio HTML Template" name="description">
+
+        <!-- Favicon -->
+        <link href="img/fankarRumi.png" rel="icon">
+
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Solway:400,700&display=swap" rel="stylesheet"> 
+
+        <!-- CSS Libraries -->
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <!-- Header Start -->
+        <div class="top-header" id="top-header">
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col-md-12">
+                        <img src="img/dp.jpg" alt="Gul Fayaz Rumi" />
+                    </div>
+
+                    <div class="col-md-12">
+                        <h1>I'm Gul Fayaz Rumi</h1>
+                    </div>
+
+                    <div class="col-md-12">
+                        <p> Software Engineer, Software Developer, Web Developer, Graphic Designer, Web Designer, Back End Developer </p>
+                        <h2></h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Header End -->
+
+        <!-- Nav Start -->
+        <div class="header">
+            <div class="container">
+
+                <div class="logo pull-left">
+                    <h1><a href="index.html">MyFolio</a></h1>
+                </div>
+
+                <nav id="nav-menu-container">
+                    <ul class="nav-menu">
+                        <li><a href="#top-header">Home</a></li>
+                        <li><a href="#about">About me</a></li>
+                        <li><a href="#experience">Experience</a></li>
+                        <li><a href="#services">Services</a></li>
+                        <li><a href="#portfolio">Portfolio</a></li>
+                        
+                        <li><a href="#contact">Contact me</a></li>
+                    </ul>
+                </nav>
+
+                <nav class="nav social-nav pull-right d-none d-lg-inline">
+                  <a href="https://www.facebook.com/gulfayaz.rumi.5"><i class="fa fa-facebook"></i></a> <a href="https://www.linkedin.com/in/gul-fayaz-rumi-29722919b/"><i class="fa fa-linkedin"></i></a>
+                </nav>
+            </div>
+        </div>
+        <!-- Nav End -->
+
+        <!-- About Me Start-->
+        <div class="about" id="about">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-lg-4">
+                        <img class="img-fluid" src="img/rumi.jpg" />
+                    </div>
+
+                    <div class="col-md-6 col-lg-8">
+                        <header class="section-header">
+                            <h2>About Me</h2>
+                        </header>
+                        <h3><strong>Name:</strong> Gul Fayaz Rumi</h3>
+                        <h4><strong>Profession:</strong> Software Engineer</h4>
+                        <p>
+                            I am a dedicated, adaptable, and innovative Software Engineer who is committed to excellence in every aspect of my work. My passion for technology drives me to continually improve and make a lasting impact through the software I create. I'm eager to embrace new challenges, collaborate with inspiring teams, and embark on exciting projects that push the boundaries of what's possible in the realm of software engineering. 
+                        </p>
+                        <p>
+                            Software engineering is a dynamic field, and I have learned to embrace change with an open mind. I adapt quickly to new tools, methodologies, and project requirements, ensuring a seamless transition and maintaining productivity even in challenging situations.
+                        </p>
+                        <p>
+                            Over the years, I've honed my skills and expertise across a wide range of technologies and domains. I'm proficient in multiple programming languages such as C++, Java, JavaScript and Python , and I'm always eager to embrace new languages and frameworks as the tech landscape evolves. My understanding of various development paradigms, like object-oriented programming and functional programming, enables me to approach problem-solving from different angles.
+
+                            Furthermore, I have hands-on experience with web development, mobile app development, and database management systems. I take pride in crafting elegant, efficient, and scalable code that adheres to industry best practices. My keen eye for detail ensures that I deliver robust and reliable software solutions.
+                        </p>
+                        <a href="#">Hire Me</a>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="skills">
+                            <h3>Web Development</h3>
+                            <hr />
+                            <h4>Front End</h4>
+                            <div class="skill-name">
+                                <p>HTML</p><p>95%</p>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            
+                            <div class="skill-name">
+                                <p>CSS</p><p>95%</p>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+
+                            <div class="skill-name">
+                                <p>JavaScript</p><p>80%</p>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+
+                            <div class="skill-name">
+                                <p>jQuery</p><p>80%</p>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+
+                            <div class="skill-name">
+                                <p>React JS</p><p>40%</p>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+
+                            <div class="skills">
+                                <h4>Back End Skills</h4>
+                                <div class="skill-name">
+                                    <p>PHP</p><p>85%</p>
+                                </div>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                
+                                <div class="skill-name">
+                                    <p>Laravel</p><p>70%</p>
+                                </div>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                
+                                <div class="skill-name">
+                                    <p>MySQL</p><p>95%</p>
+                                </div>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                    <div class="col-md-6">
+                        <div class="skills">
+                            <h3>Programming Skill</h3>
+                            <hr />
+                            <br />
+                          
+                            <div class="skill-name">
+                                <p>Object object-oriented programming</p><p>70%</p>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            
+                            <div class="skill-name">
+                                <p>Data Structure</p><p>65%</p>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            
+                            <div class="skill-name">
+                                <p>Database-Management</p><p>75%</p>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+
+                            <div class="skill-name">
+                                <p>Unity</p><p>45%</p>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            <div class="skill-name">
+                                <p>Software Construction & Development</p><p>75%</p>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            <div class="skills">
+                                <h4>Programming languages</h4>
+                                <div class="skill-name">
+                                    <p>C++</p><p>90%</p>
+                                </div>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                
+                                <div class="skill-name">
+                                    <p>JAVA</p><p>80%</p>
+                                </div>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                
+                                <div class="skill-name">
+                                    <p>Python</p><p>55%</p>
+                                </div>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- About Me End-->
+        
+        <!-- Job Experience Start -->
+        <div class="experience" id="experience">
+            <div class="container">
+                <header class="section-header">
+                    <h3>Job Experience</h3>
+                    <h4>Freelancer</h4>
+                    <p>
+                        I have ventured into freelancing on platforms like Fiverr and Upwork. As a graphic designer and market researcher, I have successfully completed over 117 projects for international clients, further honing my skills and expanding my portfolio
+                    </p>
+                </header>
+               
+              
+            </div>
+        </div>
+        <!-- Job Experience End -->
+
+        <!-- Services Start -->
+        <div class="services" id="services">
+            <div class="container">
+                <header class="section-header">
+                    <h3>My Services</h3>
+                    <p>
+                        As a multi-faceted professional offering Web Development, Graphic Designing, and Software Development services, my passion lies in creating purposeful and engaging digital experiences. By combining technical expertise, artistic creativity, and a client-centric approach, I am dedicated to helping businesses and individuals thrive in the digital realm. Whether you need a stunning website, captivating designs, or a cutting-edge software solution, I am here to bring your vision to fruition and contribute to your success. Let's collaborate and turn your ideas into reality!
+                    </p>
+                </header>
+                <div class="row">
+                    <div class="col-sm-6 col-md-4">
+                        <div class="single-service">
+                            <span></span>
+                            <div class="service-icon"><i class="fa fa-television"></i></div>
+                            <h4><a href="https://www.upwork.com/freelancers/~01d6b2f473f88a5b1b">Web Development</a></h4>
+                            <p>In the ever-evolving digital landscape, a compelling online presence is essential for businesses and individuals alike. As a seasoned Web Developer, I specialize in crafting dynamic and visually stunning websites that not only capture attention but also deliver an exceptional user experience. <br />
+                                Whether you need a simple, static website or a complex, feature-rich web application, I am equipped with the expertise to turn your vision into reality. From front-end development, where I carefully blend aesthetics with functionality using HTML, CSS, and JavaScript, to back-end development, where I leverage the power of server-side technology like  PHP to build robust databases and APIs, my focus is on creating seamless and responsive web solutions.
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4">
+                        <div class="single-service">
+                            <span></span>
+                            <div class="service-icon"> <i class="fa fa-laptop"></i> </div>
+                            <h4><a href="https://www.fiverr.com/users/gulfayazrumi"> Graphic Designer </a></h4>
+                            <p>In a visually-driven world, impactful design can make all the difference in leaving a lasting impression. As a creative Graphic Designer, I possess the artistic flair and technical expertise to bring your ideas to life and communicate your brand's message effectively through visual storytelling.
+
+                                From crafting eye-catching logos, engaging social media graphics, and captivating marketing materials to designing intuitive user interfaces (UI) and user experiences (UX) for websites and applications, my design process revolves around understanding your brand identity and target audience.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4">
+                        <div class="single-service">
+                            <span></span>
+                            <div class="service-icon"> <i class="fa fa-globe"></i> </div>
+                            <h4><a href="https://www.fiverr.com/s/EadzR9">Market Reseach</a></h4>
+                            <p>
+                                In today's fiercely competitive business landscape, staying ahead requires a deep understanding of your industry and market trends. As a market research specialist, I offer comprehensive industry insights and analysis that provide you with a clear understanding of your sector's dynamics. Through in-depth research, data collection, and trend analysis, I help you identify opportunities, potential threats, and emerging market niches, empowering you to make informed decisions and strategic moves.
+
+                            </p>
+                        </div>
+                    </div>
+                   
+                   
+                    
+                </div>
+            </div>
+        </div>
+        <!-- Services End -->
+
+        <!-- Counter Start -->
+        <div class="counters">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-6">
+                        <div class="counter">
+                            <div class="counter-icon-box"><i class="fa fa-calendar"></i></div>
+                            <div class="number animateNumber" data-toggle="counter-up"> <span>5</span></div>
+                            <h4 class="font-weight">Years of Experience</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="counter">
+                            <div class="counter-icon-box"><i class="fa fa-check"></i></div>
+                            <div class="number animateNumber" data-toggle="counter-up"> <span>120</span></div>
+                            <h4 class="font-weight">Completed Projects</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="counter">
+                            <div class="counter-icon-box"><i class="fa fa-users"></i></div>
+                            <div class="number animateNumber" data-toggle="counter-up"> <span>125</span></div>
+                            <h4 class="font-weight">Total Clients</h4>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <!-- Counter End -->
+
+        <!-- Portfolio Start -->
+        <div class="portfolio" id="portfolio">
+            <div class="container">
+                <header class="section-header">
+                    <h3 class="section-title">My Portfolio</h3>
+                    <p>
+                       Some sample of my work as a Freelancer done with in 4 years
+                    </p>
+                </header>
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ul id="portfolio-flters">
+                            <li data-filter="*" class="filter-active">All</li>
+                            <li data-filter=".web-des">Graphic Designer</li>
+                            <li data-filter=".web-dev">Web Development</li>
+                            <li data-filter=".app-dev">App Development</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row portfolio-container">
+                    <div class="col-lg-4 col-md-6 portfolio-item web-des">
+                        <div class="portfolio-wrap">
+                            <figure>
+                                <img src="img/portfolio-1.jpg" class="img-fluid" alt="">
+                                <a href="img/portfolio-1.jpg" data-lightbox="portfolio" data-title="Curabitur semper erat" class="link-preview" title="Preview"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
+                                <h4 class="portfolio-title">Giga Tech Logo Design <span>Graphic Designing</span></h4>
+                            </figure>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item web-des">
+                        <div class="portfolio-wrap">
+                            <figure>
+                                <img src="img/portfolio-2.jpg" class="img-fluid" alt="">
+                                <a href="img/portfolio-2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Maecenas a tempus tortor" title="Preview"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
+                                <h4 class="portfolio-title">Gojal Times logo design <span>Graphic Designing</span></h4>
+                            </figure>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item web-dev">
+                        <div class="portfolio-wrap">
+                            <figure>
+                                <img src="img/portfolio-3.jpg" class="img-fluid" alt="">
+                                <a href="img/portfolio-3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Aliquam id sapien lorem" title="Preview"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
+                                <h4 class="portfolio-title">Sign-Up Front-end Design for Library <span>Web Development</span></h4>
+                            </figure>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item web-dev">
+                        <div class="portfolio-wrap">
+                            <figure>
+                                <img src="img/portfolio-4.jpg" class="img-fluid" alt="">
+                                <a href="img/portfolio-4.jpg" class="link-preview" data-lightbox="portfolio" data-title="Quisque lectus mauris" title="Preview"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
+                                <h4 class="portfolio-title">>Sign-In Front-end Design <span>Web Development</span></h4>
+                            </figure>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item app-dev">
+                        <div class="portfolio-wrap">
+                            <figure>
+                                <img src="img/portfolio-5.jpg" class="img-fluid" alt="">
+                                <a href="img/portfolio-5.jpg" class="link-preview" data-lightbox="portfolio" data-title="Interdum et malesuada" title="Preview"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
+                                <h4 class="portfolio-title">Mobile app Development <span>Apps Development</span></h4>
+                            </figure>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item app-dev">
+                        <div class="portfolio-wrap">
+                            <figure>
+                                <img src="img/portfolio-6.jpg" class="img-fluid" alt="">
+                                <a href="img/portfolio-6.jpg" class="link-preview" data-lightbox="portfolio" data-title="Pellentesque lacus" title="Preview"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
+                                <h4 class="portfolio-title">Mobile app Development <span>Apps Development</span></h4>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio End -->
+
+        <!-- Testimonials Start -->
+        <div class="testimonials" id="testimonials">
+            <div class="container">
+                <i class="fa fa-4x fa-quote-left"></i>
+                <div class="owl-carousel testimonials-carousel">
+                    <div class="testimonial-item">
+                        <img src="img/testimonial-1.jpg" class="testimonial-img" alt="">
+                        <h3>Webbsies</h3>
+                        <h4><a href="https://www.fiverr.com/webbsies?source=order_page_user_rating_link">Click to contact</a></h4>
+                        <p>
+                            My gosh, this designer completely redesigned in my opinion, what was already a pretty fantastic logo, and came back with something EVEN BETTER! So happy with the results omg. Strongly recommend this person if you're looking for something simple but catchy!
+						</p>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
+                        <h3>Ostin</h3>
+                        <h4><a href="https://www.fiverr.com/ostinmera?source=order_page_user_link_requirements_provided">Click to contact</a></h4>
+                        <p>
+                            It was a great pleasure to work with this logo designer. Very creative, skilled, and on-time delivery, although it was the weekend. We hope to have a chance to work together again.
+                        </p>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img src="img/testimonial-3.jpg" class="testimonial-img" alt="">
+                        <h3>Maddison Hughes</h3>
+                        <h4>Social worker</h4>
+                        <p>
+                            Nulla at luctus ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis enim quam, interdum nec turpis at, volutpat ultricies ligula.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Testimonials End -->
+
+        <!-- Contact Start -->
+        <div class="contact" id="contact">
+            <div class="container">
+                <div class="section-header">
+                    <h3>Contact Me</h3>
+                    <p>
+                        I am committed to delivering exceptional services that exceed your expectations. Whether you need a stunning website, eye-catching graphics, or a powerful software solution, I'm here to help you every step of the way. Together, we can craft a tailored approach that aligns perfectly with your goals and vision.
+						I look forward to hearing from you and embarking on an exciting journey of collaboration and creativity. Let's make your project a resounding success!
+						</p>
+                </div>
+
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <div class="contact-info">
+                            <p><i class="fa fa-user"></i>Gul Fayaz Rumi</p>
+                            <p><i class="fa fa-tag"></i>Web Developer & Graphic Designer</p>
+                            <p><i class="fa fa-map-marker"></i>Islamabad Pakistan</p>
+                            <p><i class="fa fa-envelope"></i><a href="mailto:gulfayazrumi5@gmail.com">gulfayazrumi5@gmail.com</a></p>
+                            <p><i class="fa fa-phone"></i><a href="tel:+923499474348">+923499474348</a></p>
+                            <div class="social">
+                                <a href=""><i class="fa fa-twitter"></i></a>
+                                <a href=""><i class="fa fa-facebook"></i></a>
+                                <a href=""><i class="fa fa-linkedin"></i></a>
+                                <a href=""><i class="fa fa-instagram"></i></a>
+                                <a href=""><i class="fa fa-youtube"></i></a>
+								<a href="https://www.fiverr.com/your_username" target="_blank" title="Fiverr"><i class="fab fa-fiverr"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form">
+                            <form action="" method="">
+                                <div class="form-row">
+                                    <div class="form-group col-md-6">
+                                        <input type="text" class="form-control" placeholder="Your Name" />
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                        <input type="email" class="form-control" placeholder="Your Email" />
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="Subject" />
+                                </div>
+                                <div class="form-group">
+                                    <textarea class="form-control" rows="5" placeholder="Message"></textarea>
+                                </div>
+                                <div><button type="submit">Send Message</button></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Contact End -->
+
+        
+        
+      
+        
+        <!-- Back to Top -->
+        <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+        <!-- JavaScript Libraries -->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/typed/typed.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/stickyjs/sticky.js"></script>
+        <script src="lib/superfish/hoverIntent.js"></script>
+        <script src="lib/superfish/superfish.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/counterup/counterup.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/isotope/isotope.pkgd.min.js"></script>
+        <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+        <!-- Template Javascript -->
+        <script src="js/main.js"></script>
+    </body>
+</html>
